@@ -1,10 +1,10 @@
 {
-	"homepage": "http://aureooms.github.io/js-data-structures/",
-	"name": "aureooms-js-data-structures",
+	"homepage": "http://aureooms.github.io/js-heap/",
+	"name": "aureooms-js-heap",
 	"license": "AGPL-3.0",
-	"description": "Data structures code bricks for JavaScript",
+	"description": "Heap code bricks for JavaScript",
 	"version": "5.0.3",
-	"main": "js/dist/data-structures.js",
+	"main": "js/dist/heap.js",
 	"ignore": [
 		"js/index.js",
 		"js/src",

@@ -1,19 +1,19 @@
 {
-	"name": "aureooms-js-data-structures",
-	"description": "Data structures code bricks for JavaScript",
-	"homepage": "http://aureooms.github.io/js-data-structures/",
-	"main": "js/dist/data-structures.js",
+	"name": "aureooms-js-heap",
+	"description": "Heap code bricks for JavaScript",
+	"homepage": "http://aureooms.github.io/js-heap/",
+	"main": "js/dist/heap.js",
 	"version": "5.0.3",
 	"repository": {
-		"url": "https://github.com/aureooms/js-data-structures.git",
+		"url": "https://github.com/aureooms/js-heap.git",
 		"type": "git"
 	},
 	"keywords": [
 		"bricks",
-		"data",
+		"ender",
+		"heap",
 		"javascript",
-		"js",
-		"structures"
+		"js"
 	],
 	"scripts": {
 		"build": "./node_modules/.bin/aureooms-node-package-build",
@@ -32,7 +32,7 @@
 		"aureooms-node-package": "^2.0.2"
 	},
 	"bugs": {
-		"url": "https://github.com/aureooms/js-data-structures/issues"
+		"url": "https://github.com/aureooms/js-heap/issues"
 	},
 	"dependencies": {},
 	"license": "AGPL-3.0"

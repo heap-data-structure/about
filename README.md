@@ -1,20 +1,20 @@
-[js-data-structures](http://aureooms.github.io/js-data-structures)
+[js-heap](http://aureooms.github.io/js-heap)
 ====
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/aureooms/js-data-structures?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/aureooms/js-heap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Playground for data structure code bricks in JavaScript. This is the twin project of [js-algo](https://github.com/aureooms/js-algo).
 
-[![NPM license](http://img.shields.io/npm/l/aureooms-js-data-structures.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-data-structures/master/LICENSE)
-[![NPM version](http://img.shields.io/npm/v/aureooms-js-data-structures.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-data-structures)
-[![Bower version](http://img.shields.io/bower/v/aureooms-js-data-structures.svg?style=flat)](http://bower.io/search/?q=aureooms-js-data-structures)
-[![Build Status](http://img.shields.io/travis/aureooms/js-data-structures.svg?style=flat)](https://travis-ci.org/aureooms/js-data-structures)
-[![Coverage Status](http://img.shields.io/coveralls/aureooms/js-data-structures.svg?style=flat)](https://coveralls.io/r/aureooms/js-data-structures)
-[![Dependencies Status](http://img.shields.io/david/aureooms/js-data-structures.svg?style=flat)](https://david-dm.org/aureooms/js-data-structures#info=dependencies)
-[![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-data-structures.svg?style=flat)](https://david-dm.org/aureooms/js-data-structures#info=devDependencies)
-[![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-data-structures.svg?style=flat)](https://codeclimate.com/github/aureooms/js-data-structures)
-[![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-data-structures.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-data-structures)
-[![GitHub issues](http://img.shields.io/github/issues/aureooms/js-data-structures.svg?style=flat)](https://github.com/aureooms/js-data-structures/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-data-structures.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-data-structures)
+[![NPM license](http://img.shields.io/npm/l/aureooms-js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
+[![NPM version](http://img.shields.io/npm/v/aureooms-js-heap.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-heap)
+[![Bower version](http://img.shields.io/bower/v/aureooms-js-heap.svg?style=flat)](http://bower.io/search/?q=aureooms-js-heap)
+[![Build Status](http://img.shields.io/travis/aureooms/js-heap.svg?style=flat)](https://travis-ci.org/aureooms/js-heap)
+[![Coverage Status](http://img.shields.io/coveralls/aureooms/js-heap.svg?style=flat)](https://coveralls.io/r/aureooms/js-heap)
+[![Dependencies Status](http://img.shields.io/david/aureooms/js-heap.svg?style=flat)](https://david-dm.org/aureooms/js-heap#info=dependencies)
+[![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-heap.svg?style=flat)](https://david-dm.org/aureooms/js-heap#info=devDependencies)
+[![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-heap.svg?style=flat)](https://codeclimate.com/github/aureooms/js-heap)
+[![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-heap.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-heap)
+[![GitHub issues](http://img.shields.io/github/issues/aureooms/js-heap.svg?style=flat)](https://github.com/aureooms/js-heap/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-heap.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-heap)
 
 
 This project is just a playground for any data structure
@@ -57,3 +57,5 @@ Other reference:
 
   - http://en.wikipedia.org/wiki/Disjoint-set_data_structure
   - http://en.wikipedia.org/wiki/Partition_refinement
+
+***( forked from [js-data-structures](https://github.com/aureooms/js-data-structures) )***

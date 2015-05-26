@@ -1,10 +1,10 @@
 {
-	"name": "data-structures",
+	"name": "heap",
 	"code": {
 		"main": [
 			"js",
 			"dist",
-			"data-structures.js"
+			"heap.js"
 		],
 		"test": [
 			"test",
