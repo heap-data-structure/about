@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en"><head><title>index</title></head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><meta name="groc-relative-root" content=""><meta name="groc-document-path" content="index"><meta name="groc-project-path" content="README.md"><meta name="groc-github-url" content="https://github.com/aureooms/js-heap"><link rel="stylesheet" type="text/css" media="all" href="assets/style.css"><script type="text/javascript" src="assets/behavior.js"></script><body><div id="meta"><div class="file-path"><a href="https://github.com/aureooms/js-heap/blob/master/README.md">README.md</a></div></div><div id="document"><div class="segment"><div class="comments "><div class="wrapper"><h1 id="-js-heap-http-aureooms-github-io-js-heap-"><a href="http://aureooms.github.io/js-heap">js-heap</a></h1>
 <p><a href="https://gitter.im/aureooms/js-heap?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join Chat.svg" alt="Gitter"></a></p>
-<p>Playground for data structure code bricks in JavaScript. This is the twin project of <a href="https://github.com/aureooms/js-algo">js-algo</a>.</p>
+<p>Heap code bricks in JavaScript.</p>
 <p><a href="https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE"><img src="http://img.shields.io/npm/l/aureooms-js-heap.svg?style=flat" alt="NPM license"></a>
 <a href="https://www.npmjs.org/package/aureooms-js-heap"><img src="http://img.shields.io/npm/v/aureooms-js-heap.svg?style=flat" alt="NPM version"></a>
 <a href="http://bower.io/search/?q=aureooms-js-heap"><img src="http://img.shields.io/bower/v/aureooms-js-heap.svg?style=flat" alt="Bower version"></a>
@@ -12,44 +12,10 @@
 <a href="https://www.npmjs.org/package/aureooms-js-heap"><img src="http://img.shields.io/npm/dm/aureooms-js-heap.svg?style=flat" alt="NPM downloads per month"></a>
 <a href="https://github.com/aureooms/js-heap/issues"><img src="http://img.shields.io/github/issues/aureooms/js-heap.svg?style=flat" alt="GitHub issues"></a>
 <a href="http://inch-ci.org/github/aureooms/js-heap"><img src="http://inch-ci.org/github/aureooms/js-heap.svg?branch=master&amp;style=shields" alt="Inline docs"></a></p>
-<p>This project is just a playground for any data structure
-that doesn&#39;t fit in any of those project,</p>
-<ul>
-<li><a href="https://github.com/aureooms/js-arraylist">aureooms/js-arraylist</a> : dynamic array code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-bst">aureooms/js-bst</a> : binary search tree code bricks in JavaScript</li>
-<li><a href="https://github.com/aureooms/js-cg">aureooms/js-cg</a> : computational geometry code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-dict">aureooms/js-dict</a> : dictionary ADT code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-disjoint-set">aureooms/js-disjoint-set</a> : disjoint-set data structure code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-dll">aureooms/js-dll</a> : doubly linked list code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-gn">aureooms/js-gn</a> : graphs and networks code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-list-spec">aureooms/js-list-spec</a> : list ADT specification code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-lifo">aureooms/js-lifo</a> : Last In, First Out abstract data types code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-fifo">aureooms/js-fifo</a> : First In, First Out data structures code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-pubsub">aureooms/js-pubsub</a> : publish-subscribe pattern code bricks for JavaScript</li>
-</ul>
-<p>Those packages aim to provide <em>code bricks</em> that are as generic as possible.
-Some examples are a <code>d</code>-ary heap that can be parametrized with any <code>d</code>, BST&#39;s
-built on the same left rotate and right rotate functions, an ArrayList
-implementation with parametrizable allocator.</p>
+<p>This package contains a <code>d</code>-ary heap implementation that can be parametrized
+with any <code>d</code>, and some binomial heap implementations.</p>
 <p>Binary and Binomial heap reference:</p>
 <ul>
 <li><a href="http://www.cs.princeton.edu/~wayne/cs423/lectures/heaps-4up.pdf">http://www.cs.princeton.edu/~wayne/cs423/lectures/heaps-4up.pdf</a></li>
 <li><a href="http://stackoverflow.com/questions/6531543/efficient-implementation-of-binary-heaps">http://stackoverflow.com/questions/6531543/efficient-implementation-of-binary-heaps</a></li>
-</ul>
-<p>Other projects implementing data structures in JavaScript :</p>
-<ul>
-<li><a href="https://github.com/nzakas/computer-science-in-javascript">https://github.com/nzakas/computer-science-in-javascript</a></li>
-<li><a href="http://www.nayuki.io">http://www.nayuki.io</a></li>
-</ul>
-<p>Other projects implementing data structures in other languages :</p>
-<ul>
-<li><a href="https://github.com/patmorin/ods">https://github.com/patmorin/ods</a> (C++, Java, Python)</li>
-<li><a href="http://www.nayuki.io">http://www.nayuki.io</a> (C, C++, Java, C#, Python, Haskell, MATLAB and others)</li>
-<li><a href="http://rosettacode.org">http://rosettacode.org</a> (All kinds of languages)</li>
-</ul>
-<p>Other reference:</p>
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Disjoint-set_data_structure">http://en.wikipedia.org/wiki/Disjoint-set_data_structure</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Partition_refinement">http://en.wikipedia.org/wiki/Partition_refinement</a></li>
-</ul>
-<p><strong><em>( forked from <a href="https://github.com/aureooms/js-data-structures">js-data-structures</a> )</em></strong></p></div></div></div></div></body></html>
+</ul></div></div></div></div></body></html>
