@@ -67,13 +67,13 @@ itertools.product( [
 			itertools.product( [
 
 			[
-				["__BinomialHeap__", datastructures.__BinomialHeap__],
-				// ["__LazyBinomialHeap__", datastructures.__LazyBinomialHeap__]
+				["__BinomialHeap__", heap.__BinomialHeap__],
+				// ["__LazyBinomialHeap__", heap.__LazyBinomialHeap__]
 			],
 
 			[
-				["BinomialTree", datastructures.BinomialTree],
-				["BinomialTreeWithParent", datastructures.BinomialTreeWithParent]
+				["BinomialTree", heap.BinomialTree],
+				["BinomialTreeWithParent", heap.BinomialTreeWithParent]
 			]
 
 			], 1, [] ),
@@ -101,7 +101,7 @@ itertools.product( [
 					"DAryHeapWithoutReferences",
 					functools.curry(
 						functools.partial(
-							functools.create, [datastructures.DAryHeapWithoutReferences]
+							functools.create, [heap.DAryHeapWithoutReferences]
 						),
 						2
 					)
@@ -110,7 +110,7 @@ itertools.product( [
 					"DAryHeap",
 					functools.curry(
 						functools.partial(
-							functools.create, [datastructures.DAryHeap]
+							functools.create, [heap.DAryHeap]
 						),
 						2
 					)
