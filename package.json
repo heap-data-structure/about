@@ -3,7 +3,7 @@
 	"description": "Heap code bricks for JavaScript",
 	"homepage": "http://aureooms.github.io/js-heap/",
 	"main": "js/dist/heap.js",
-	"version": "5.0.3",
+	"version": "6.0.0",
 	"repository": {
 		"url": "https://github.com/aureooms/js-heap.git",
 		"type": "git"
