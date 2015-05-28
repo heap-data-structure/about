@@ -3,7 +3,7 @@
 	"name": "aureooms-js-heap",
 	"license": "AGPL-3.0",
 	"description": "Heap code bricks for JavaScript",
-	"version": "7.0.0",
+	"version": "8.0.0",
 	"main": "js/dist/heap.js",
 	"ignore": [
 		"js/index.js",
