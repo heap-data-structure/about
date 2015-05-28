@@ -16,10 +16,16 @@ Heap code bricks in JavaScript.
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-heap.svg?style=flat)](https://github.com/aureooms/js-heap/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-heap.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-heap)
 
-This package contains a `d`-ary heap implementation that can be parametrized
+## Subpackages
+
+These packages contain a `d`-ary heap implementation that can be parametrized
 with any `d`, and some binomial heap implementations.
 
-Binary and Binomial heap reference:
+  - [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap code bricks for JavaScript
+  - [aureooms/js-d-ary-heap](https://github.com/aureooms/js-d-ary-heap): d-ary heap code bricks for JavaScript
+
+
+## Reference
 
   - http://www.cs.princeton.edu/~wayne/cs423/lectures/heaps-4up.pdf
   - http://stackoverflow.com/questions/6531543/efficient-implementation-of-binary-heaps
