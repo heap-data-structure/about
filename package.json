@@ -23,7 +23,7 @@
 	"author": "aureooms",
 	"devDependencies": {
 		"aureooms-js-heap-spec": "^8.0.0",
-		"aureooms-node-package": "^4.2.5"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"bugs": {
 		"url": "https://github.com/aureooms/js-heap/issues"
