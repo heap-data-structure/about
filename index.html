@@ -1,9 +1,48 @@
-<!DOCTYPE html><html lang="en"><head><title>index</title></head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><meta name="groc-relative-root" content=""><meta name="groc-document-path" content="index"><meta name="groc-project-path" content="README.md"><meta name="groc-github-url" content="https://github.com/aureooms/js-heap"><link rel="stylesheet" type="text/css" media="all" href="assets/style.css"><script type="text/javascript" src="assets/behavior.js"></script><body><div id="meta"><div class="file-path"><a href="https://github.com/aureooms/js-heap/blob/master/README.md">README.md</a></div></div><div id="document"><div class="segment"><div class="comments "><div class="wrapper"><h1 id="-js-heap-http-aureooms-github-io-js-heap-"><a href="http://aureooms.github.io/js-heap">js-heap</a></h1>
-<p><a href="https://gitter.im/aureooms/js-heap?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join Chat.svg" alt="Gitter"></a></p>
-<p>Heap code bricks in JavaScript.</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl">
+  <title data-ice="title">aureooms/js-heap API Document</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  
+  
+  <script src="script/manual.js"></script>
+<script data-ice="userScript" src="user/script/0-header.js"></script>
+<link data-ice="userStyle" rel="stylesheet" href="user/css/0-style.css">
+</head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <a data-ice="repoURL" href="https://github.com/aureooms/js-heap.git" class="repo-url-github">Repository</a>
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  </ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-js-heap-http-aureooms-github-io-js-heap-"><a href="http://aureooms.github.io/js-heap">js-heap</a></h1>
+<p>Heap data structures in JavaScript. Parent is
+<a href="https://github.com/aureooms/js-data-structures">aureooms/js-data-structures</a>.</p>
 <p><a href="https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE"><img src="http://img.shields.io/npm/l/aureooms-js-heap.svg?style=flat" alt="NPM license"></a>
 <a href="https://www.npmjs.org/package/aureooms-js-heap"><img src="http://img.shields.io/npm/v/aureooms-js-heap.svg?style=flat" alt="NPM version"></a>
-<a href="http://bower.io/search/?q=aureooms-js-heap"><img src="http://img.shields.io/bower/v/aureooms-js-heap.svg?style=flat" alt="Bower version"></a>
 <a href="https://travis-ci.org/aureooms/js-heap"><img src="http://img.shields.io/travis/aureooms/js-heap.svg?style=flat" alt="Build Status"></a>
 <a href="https://coveralls.io/r/aureooms/js-heap"><img src="http://img.shields.io/coveralls/aureooms/js-heap.svg?style=flat" alt="Coverage Status"></a>
 <a href="https://david-dm.org/aureooms/js-heap#info=dependencies"><img src="http://img.shields.io/david/aureooms/js-heap.svg?style=flat" alt="Dependencies Status"></a>
@@ -11,16 +50,35 @@
 <a href="https://codeclimate.com/github/aureooms/js-heap"><img src="http://img.shields.io/codeclimate/github/aureooms/js-heap.svg?style=flat" alt="Code Climate"></a>
 <a href="https://www.npmjs.org/package/aureooms-js-heap"><img src="http://img.shields.io/npm/dm/aureooms-js-heap.svg?style=flat" alt="NPM downloads per month"></a>
 <a href="https://github.com/aureooms/js-heap/issues"><img src="http://img.shields.io/github/issues/aureooms/js-heap.svg?style=flat" alt="GitHub issues"></a>
-<a href="http://inch-ci.org/github/aureooms/js-heap"><img src="http://inch-ci.org/github/aureooms/js-heap.svg?branch=master&amp;style=shields" alt="Inline docs"></a></p>
-<h2 id="subpackages">Subpackages</h2>
-<p>These packages contain a <code>d</code>-ary heap implementation that can be parametrized
-with any <code>d</code>, and some binomial heap implementations.</p>
+<a href="https://aureooms.github.io/js-heap/source.html"><img src="https://aureooms.github.io/js-heap/badge.svg" alt="Documentation"></a></p>
+<h2 id="children">Children</h2>
+<p>The following packages contain various heap implementations.</p>
 <ul>
-<li><a href="https://github.com/aureooms/js-binomial-heap">aureooms/js-binomial-heap</a>: Binomial heap code bricks for JavaScript</li>
-<li><a href="https://github.com/aureooms/js-d-ary-heap">aureooms/js-d-ary-heap</a>: d-ary heap code bricks for JavaScript</li>
+<li><a href="https://github.com/aureooms/js-heap-spec">aureooms/js-heap-spec</a>: Specification for heap data structures in JavaScript</li>
+<li><a href="https://github.com/aureooms/js-heapq">aureooms/js-heapq</a>: Python&apos;s heapq library for Javascript</li>
+<li><a href="https://github.com/aureooms/js-heapsort">aureooms/js-heapsort</a>: Heap sort algorithm for Javascript</li>
+<li><a href="https://github.com/aureooms/js-binomial-heap">aureooms/js-binomial-heap</a>: Binomial heap data structure for JavaScript</li>
+<li><a href="https://github.com/aureooms/js-d-ary-heap">aureooms/js-d-ary-heap</a>: d-ary heap data structure for JavaScript</li>
+<li><a href="https://github.com/aureooms/js-pairing-heap">aureooms/js-pairing-heap</a>: Pairing heap data structure for JavaScript</li>
 </ul>
 <h2 id="reference">Reference</h2>
 <ul>
 <li><a href="http://www.cs.princeton.edu/~wayne/cs423/lectures/heaps-4up.pdf">http://www.cs.princeton.edu/~wayne/cs423/lectures/heaps-4up.pdf</a></li>
 <li><a href="http://stackoverflow.com/questions/6531543/efficient-implementation-of-binary-heaps">http://stackoverflow.com/questions/6531543/efficient-implementation-of-binary-heaps</a></li>
-</ul></div></div></div></div></body></html>
+</ul>
+</div>
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(0.5.2)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>
