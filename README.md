@@ -19,12 +19,16 @@ Heap data structures in JavaScript. Parent is
 
 The following packages contain various heap implementations.
 
-  - [aureooms/js-heap-spec](https://github.com/aureooms/js-heap-spec): Specification for heap data structures in JavaScript
-  - [aureooms/js-heapq](https://github.com/aureooms/js-heapq): Python's heapq library for Javascript
-  - [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): Heap sort algorithm for Javascript
-  - [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
-  - [aureooms/js-d-ary-heap](https://github.com/aureooms/js-d-ary-heap): d-ary heap data structure for JavaScript
-  - [aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
+  - [x] [aureooms/js-heap-spec](https://github.com/aureooms/js-heap-spec): Specification for heap data structures in JavaScript
+  - [x] [aureooms/js-heapq](https://github.com/aureooms/js-heapq): Python's heapq library for Javascript
+  - [x] [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): Heap sort algorithm for Javascript
+  - [x] [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
+  - [x] [aureooms/js-d-ary-heap](https://github.com/aureooms/js-d-ary-heap): d-ary heap data structure for JavaScript
+  - [x] [aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
+  - [ ] Fibonacci heap
+  - [ ] Brodal queue
+  - [ ] Rank-pairing heap
+  - [ ] Strict Fibonacci heap
 
 
 ## Reference
