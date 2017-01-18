@@ -1,7 +1,7 @@
 {
   "name": "aureooms-js-heap",
-  "description": "Heap code bricks for JavaScript",
-  "homepage": "http://aureooms.github.io/js-heap/",
+  "description": "Heap data structures for JavaScript",
+  "homepage": "https://aureooms.github.io/js-heap",
   "main": "lib/index.js",
   "version": "8.0.0",
   "repository": {
@@ -9,18 +9,16 @@
     "type": "git"
   },
   "keywords": [
-    "bricks",
-    "ender",
+    "data",
+    "structure",
     "heap",
+    "min",
+    "max",
     "javascript",
     "js"
   ],
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
   "devDependencies": {
-    "aureooms-js-heap-spec": "^8.0.0",
-    "aureooms-js-array": "^3.1.0",
-    "aureooms-js-functools": "^2.0.3",
-    "aureooms-js-itertools": "^3.1.1",
     "ava": "^0.17.0",
     "babel-cli": "^6.18.0",
     "babel-polyfill": "^6.16.0",

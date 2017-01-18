@@ -1,7 +1,7 @@
 [js-heap](http://aureooms.github.io/js-heap)
 ==
 
-Heap code bricks in JavaScript. Parent is
+Heap data structures in JavaScript. Parent is
 [aureooms/js-data-structures](https://github.com/aureooms/js-data-structures).
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
