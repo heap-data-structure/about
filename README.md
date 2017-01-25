@@ -1,8 +1,11 @@
-[js-heap](http://aureooms.github.io/js-heap)
+[@aureooms/js-heap](https://aureooms.github.io/js-heap)
 ==
 
-Heap data structures in JavaScript. Parent is
-[aureooms/js-data-structures](https://github.com/aureooms/js-data-structures).
+<img src="https://cdn.rawgit.com/aureooms/js-heap/master/media/sketch.png" width="864">
+
+Heap data structures in JavaScript.
+See [docs](https://aureooms.github.io/js-heap).
+Parent is [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures).
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-heap.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-heap)
