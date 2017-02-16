@@ -1,5 +1,5 @@
 {
-  "name": "aureooms-js-heap",
+  "name": "@aureooms/js-heap",
   "description": "Heap data structures for JavaScript",
   "homepage": "https://aureooms.github.io/js-heap",
   "main": "lib/index.js",
