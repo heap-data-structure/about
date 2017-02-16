@@ -8,7 +8,7 @@ import 'babel-polyfill' ;
 
 Then
 ```js
-const heap = require( 'aureooms-js-heap' ) ;
+const heap = require( '@aureooms/js-heap' ) ;
 // or
-import heap from 'aureooms-js-heap' ;
+import heap from '@aureooms/js-heap' ;
 ```
