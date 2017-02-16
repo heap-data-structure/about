@@ -7,7 +7,7 @@ Heap data structures in JavaScript.
 See [docs](https://aureooms.github.io/js-heap).
 Parent is [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures).
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-heap.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-heap)
 [![Build Status](https://img.shields.io/travis/aureooms/js-heap.svg?style=flat)](https://travis-ci.org/aureooms/js-heap)
 [![Coverage Status](https://img.shields.io/coveralls/aureooms/js-heap.svg?style=flat)](https://coveralls.io/r/aureooms/js-heap)
