@@ -28,7 +28,7 @@ The following packages contain various heap implementations.
   - [x] [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
   - [x] [aureooms/js-d-ary-heap](https://github.com/aureooms/js-d-ary-heap): d-ary heap data structure for JavaScript
   - [x] [aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
-  - [ ] Fibonacci heap
+  - [x] [aureooms/js-fibonacci-heap](https://github.com/aureooms/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
   - [ ] Brodal queue
   - [ ] Rank-pairing heap
   - [ ] Strict Fibonacci heap
