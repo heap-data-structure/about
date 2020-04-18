@@ -38,3 +38,4 @@ The following packages contain various heap implementations.
 
   - http://www.cs.princeton.edu/~wayne/cs423/lectures/heaps-4up.pdf
   - http://stackoverflow.com/questions/6531543/efficient-implementation-of-binary-heaps
+  - https://en.wikipedia.org/wiki/Introduction_to_Algorithms
