@@ -22,20 +22,43 @@ Parent is [@aureooms/js-data-structures](https://github.com/aureooms/js-data-str
 
 The following packages contain various heap implementations.
 
-  - [x] [aureooms/js-heap-spec](https://github.com/aureooms/js-heap-spec): Specification for heap data structures in JavaScript
-  - [x] [aureooms/js-heapq](https://github.com/aureooms/js-heapq): Python's heapq library for Javascript
-  - [x] [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): Heap sort algorithm for Javascript
+### Data Structures
+
+#### Classical
+
   - [x] [aureooms/js-d-ary-heap](https://github.com/aureooms/js-d-ary-heap): d-ary heap data structure for JavaScript
-  - [ ] [Leftist tree](https://en.wikipedia.org/wiki/Leftist_tree)
-  - [ ] [Skew heap](https://en.wikipedia.org/wiki/Skew_heap)
   - [x] [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
   - [x] [aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
   - [x] [aureooms/js-fibonacci-heap](https://github.com/aureooms/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
+
+#### Variants
+
+  - [ ] [Leftist tree](https://en.wikipedia.org/wiki/Leftist_tree)
+  - [ ] [Skew heap](https://en.wikipedia.org/wiki/Skew_heap)
+  - [ ] [Weak heap](https://en.wikipedia.org/wiki/Weak_heap)
+  - [ ] [Rank-pairing heap](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.4644&rep=rep1&type=pdf)
+
+#### Advanced
+
   - [ ] [Leonardo heap](https://www.keithschwarz.com/smoothsort)
   - [ ] [Brodal queue](https://en.wikipedia.org/wiki/Brodal_queue)
-  - [ ] Rank-pairing heap
   - [ ] [Strict Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap)
   - [ ] [2-3 heap](https://en.wikipedia.org/wiki/2-3_heap)
+
+
+### Sorting Algorithms
+
+  - [x] [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): Heap sort algorithm for Javascript
+
+
+### Testing
+
+  - [x] [aureooms/js-heap-spec](https://github.com/aureooms/js-heap-spec): Specification for heap data structures in JavaScript
+
+
+### Other
+
+  - [x] [aureooms/js-heapq](https://github.com/aureooms/js-heapq): Python's heapq library for Javascript
 
 
 ## Reference
