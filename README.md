@@ -1,15 +1,15 @@
 :fallen_leaf: [@aureooms/js-heap](https://make-github-pseudonymous-again.github.io/js-heap)
-[![License](https://img.shields.io/github/license/aureooms/js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-heap.svg?style=flat)](https://github.com/aureooms/js-heap/issues)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-heap.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-heap/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-heap.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-heap/issues)
 ==
 
 <img src="https://ipfs.io/ipfs/QmV3bHSMRbNYydNxpyuke659Nj89UsVcuSyZXibogw4sJ9" width="864">
 
 Heap data structures and algorithms in JavaScript.
 Parents are
-[@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures)
+[@aureooms/js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures)
 and
-[@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
+[@aureooms/js-algorithms](https://github.com/make-github-pseudonymous-again/js-algorithms).
 
 ## :baby: Children
 
@@ -21,10 +21,10 @@ This project itself does not contain any code.
 
 #### Classical
 
-  - [x] [aureooms/js-d-ary-heap](https://github.com/aureooms/js-d-ary-heap): d-ary heap data structure for JavaScript
-  - [x] [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
-  - [x] [aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
-  - [x] [aureooms/js-fibonacci-heap](https://github.com/aureooms/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
+  - [x] [aureooms/js-d-ary-heap](https://github.com/make-github-pseudonymous-again/js-d-ary-heap): d-ary heap data structure for JavaScript
+  - [x] [aureooms/js-binomial-heap](https://github.com/make-github-pseudonymous-again/js-binomial-heap): Binomial heap data structure for JavaScript
+  - [x] [aureooms/js-pairing-heap](https://github.com/make-github-pseudonymous-again/js-pairing-heap): Pairing heap data structure for JavaScript
+  - [x] [aureooms/js-fibonacci-heap](https://github.com/make-github-pseudonymous-again/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
 
 #### Variants
 
@@ -43,17 +43,17 @@ This project itself does not contain any code.
 
 ### :signal_strength: Sorting Algorithms
 
-  - [x] [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): Heap sort algorithm for Javascript
+  - [x] [aureooms/js-heapsort](https://github.com/make-github-pseudonymous-again/js-heapsort): Heap sort algorithm for Javascript
 
 
 ### :bug: Testing
 
-  - [x] [aureooms/js-heap-spec](https://github.com/aureooms/js-heap-spec): Specification for heap data structures in JavaScript
+  - [x] [aureooms/js-heap-spec](https://github.com/make-github-pseudonymous-again/js-heap-spec): Specification for heap data structures in JavaScript
 
 
 ### :unicorn: Other
 
-  - [x] [aureooms/js-heapq](https://github.com/aureooms/js-heapq): Python's heapq library for Javascript
+  - [x] [aureooms/js-heapq](https://github.com/make-github-pseudonymous-again/js-heapq): Python's heapq library for Javascript
 
 
 ## :scroll: Reference
