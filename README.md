@@ -1,4 +1,4 @@
-:fallen_leaf: [@aureooms/js-heap](https://aureooms.github.io/js-heap)
+:fallen_leaf: [@aureooms/js-heap](https://make-github-pseudonymous-again.github.io/js-heap)
 [![License](https://img.shields.io/github/license/aureooms/js-heap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-heap/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-heap.svg?style=flat)](https://github.com/aureooms/js-heap/issues)
 ==
