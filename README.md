@@ -12,24 +12,24 @@
 
 Heap data structures and algorithms in JavaScript.
 Parents are
-[@aureooms/js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures)
+[js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures)
 and
-[@aureooms/js-algorithms](https://github.com/make-github-pseudonymous-again/js-algorithms).
+[js-algorithms](https://github.com/make-github-pseudonymous-again/js-algorithms).
 
 ## :baby: Children
 
-This README regroups dozens of projects focusing on implementing heap data
-structures with JavaScript.
-This project itself does not contain any code.
+This README regroups projects implementing heap data
+structures and algorithms in JavaScript.
+This repository does not contain any code.
 
 ### :herb: Data Structures
 
 #### Classical
 
-  - [x] [aureooms/js-d-ary-heap](https://github.com/make-github-pseudonymous-again/js-d-ary-heap): d-ary heap data structure for JavaScript
-  - [x] [aureooms/js-binomial-heap](https://github.com/make-github-pseudonymous-again/js-binomial-heap): Binomial heap data structure for JavaScript
-  - [x] [aureooms/js-pairing-heap](https://github.com/make-github-pseudonymous-again/js-pairing-heap): Pairing heap data structure for JavaScript
-  - [x] [aureooms/js-fibonacci-heap](https://github.com/make-github-pseudonymous-again/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
+  - [x] [@heap-data-structure/d-ary-heap](https://github.com/heap-data-structure/d-ary-heap): d-ary heap data structure for JavaScript
+  - [x] [@heap-data-structure/binomial-heap](https://github.com/heap-data-structure/binomial-heap): Binomial heap data structure for JavaScript
+  - [x] [@heap-data-structure/pairing-heap](https://github.com/heap-data-structure/pairing-heap): Pairing heap data structure for JavaScript
+  - [x] [@heap-data-structure/fibonacci-heap](https://github.com/heap-data-structure/fibonacci-heap): Fibonacci heap data structure for JavaScript
 
 #### Variants
 
@@ -48,17 +48,17 @@ This project itself does not contain any code.
 
 ### :signal_strength: Sorting Algorithms
 
-  - [x] [aureooms/js-heapsort](https://github.com/make-github-pseudonymous-again/js-heapsort): Heap sort algorithm for Javascript
+  - [x] [@sorting-algorithm/heap-sort](https://github.com/data-structures-and-algorithms/heap-sort): Heap sort algorithm for Javascript
 
 
-### :bug: Testing
+### :microscope: Testing
 
-  - [x] [aureooms/js-heap-spec](https://github.com/make-github-pseudonymous-again/js-heap-spec): Specification for heap data structures in JavaScript
+  - [x] [@heap-data-structure/specification](https://github.com/heap-data-structure/specification): Specification for heap data structures in JavaScript
 
 
 ### :unicorn: Other
 
-  - [x] [aureooms/js-heapq](https://github.com/make-github-pseudonymous-again/js-heapq): Python's heapq library for Javascript
+  - [x] [@data-structure/heapq](https://github.com/data-structures-and-algorithms/heapq): Python's heapq library for Javascript
 
 
 ## :scroll: Reference
