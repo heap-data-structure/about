@@ -3,7 +3,12 @@
 [![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-heap.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-heap/issues)
 ==
 
-<img src="https://ipfs.io/ipfs/QmV3bHSMRbNYydNxpyuke659Nj89UsVcuSyZXibogw4sJ9" width="864">
+<p align="center">
+<a href="https://xkcd.com/835">
+<img src="https://imgs.xkcd.com/comics/tree.png" width="600">
+</a><br/>
+© <a href="https://xkcd.com">xkcd.com</a>
+</p>
 
 Heap data structures and algorithms in JavaScript.
 Parents are
