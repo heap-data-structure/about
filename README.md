@@ -48,7 +48,7 @@ This repository does not contain any code.
 
 ### :signal_strength: Sorting Algorithms
 
-  - [x] [@sorting-algorithm/heap-sort](https://github.com/data-structures-and-algorithms/heap-sort): Heap sort algorithm for Javascript
+  - [x] [@comparison-sorting/heap-sort](https://github.com/comparison-sorting/heap-sort): Heap sort algorithm for Javascript
 
 
 ### :microscope: Testing
