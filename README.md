@@ -1,5 +1,5 @@
 :fallen_leaf: [Heaps](https://make-github-pseudonymous-again.github.io/js-heap)
-[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-heap.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-heap/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-heap.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-heap/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-heap.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-heap/issues)
 ==
 
